@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C28DCE32-E058-45FE-BF67-36B7788A07B7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Vardiya_Otomasyon_Programı</RootNamespace>
+    <AssemblyName>Vardiya Otomasyon Programı</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="baglantı.cs" />
+    <Compile Include="CıktıAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CıktıAl.Designer.cs">
+      <DependentUpon>CıktıAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullanıcıEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullanıcıEkran.Designer.cs">
+      <DependentUpon>KullanıcıEkran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NobetSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NobetSil.Designer.cs">
+      <DependentUpon>NobetSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NöbetDüzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NöbetDüzenle.Designer.cs">
+      <DependentUpon>NöbetDüzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NöbetEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NöbetEkle.Designer.cs">
+      <DependentUpon>NöbetEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nöbetİşlemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nöbetİşlemleri.Designer.cs">
+      <DependentUpon>Nöbetİşlemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonekEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonekEkle.Designer.cs">
+      <DependentUpon>PersonekEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelDüzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelDüzenle.Designer.cs">
+      <DependentUpon>PersonelDüzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelSil.Designer.cs">
+      <DependentUpon>PersonelSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnvanEkleSilDüzelt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnvanEkleSilDüzelt.Designer.cs">
+      <DependentUpon>UnvanEkleSilDüzelt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiEkran.Designer.cs">
+      <DependentUpon>YoneticiEkran.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CıktıAl.resx">
+      <DependentUpon>CıktıAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullanıcıEkran.resx">
+      <DependentUpon>KullanıcıEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NobetSil.resx">
+      <DependentUpon>NobetSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NöbetDüzenle.resx">
+      <DependentUpon>NöbetDüzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NöbetEkle.resx">
+      <DependentUpon>NöbetEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nöbetİşlemleri.resx">
+      <DependentUpon>Nöbetİşlemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonekEkle.resx">
+      <DependentUpon>PersonekEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelDüzenle.resx">
+      <DependentUpon>PersonelDüzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelSil.resx">
+      <DependentUpon>PersonelSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UnvanEkleSilDüzelt.resx">
+      <DependentUpon>UnvanEkleSilDüzelt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiEkran.resx">
+      <DependentUpon>YoneticiEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="LICENSE" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MySpace.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\side-wave_background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Done.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Done20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\File.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trash.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

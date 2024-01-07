@@ -1,0 +1,50 @@
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\bin\Debug\Vardiya Otomasyon Programı.exe.config
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\bin\Debug\Vardiya Otomasyon Programı.exe
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\bin\Debug\Vardiya Otomasyon Programı.pdb
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya Otomasyon Programı.csproj.AssemblyReference.cache
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.Giris.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.Properties.Resources.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya Otomasyon Programı.csproj.GenerateResource.cache
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya Otomasyon Programı.csproj.CoreCompileInputs.cache
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya Otomasyon Programı.exe
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya Otomasyon Programı.pdb
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.YoneticiEkran.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.PersonekEkle.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.PersonelSil.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.PersonelDüzenle.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.UnvanEkleSilDüzelt.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.KullanıcıEkran.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.Nöbetİşlemleri.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\bin\Debug\itextsharp.dll
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\bin\Debug\itextsharp.xml
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya Otomasyon Programı.csproj.CopyComplete
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.NöbetDüzenle.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.NobetSil.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.NöbetEkle.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.CıktıAl.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\bin\Debug\Vardiya Otomasyon Programı.exe.config
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\bin\Debug\Vardiya Otomasyon Programı.exe
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\bin\Debug\Vardiya Otomasyon Programı.pdb
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\bin\Debug\itextsharp.dll
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\bin\Debug\itextsharp.xml
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya Otomasyon Programı.csproj.AssemblyReference.cache
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.CıktıAl.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.Giris.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.KullanıcıEkran.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.NobetSil.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.NöbetDüzenle.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.NöbetEkle.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.Nöbetİşlemleri.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.PersonekEkle.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.PersonelDüzenle.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.PersonelSil.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.Properties.Resources.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.UnvanEkleSilDüzelt.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya_Otomasyon_Programı.YoneticiEkran.resources
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya Otomasyon Programı.csproj.GenerateResource.cache
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya Otomasyon Programı.csproj.CoreCompileInputs.cache
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya Otomasyon Programı.csproj.CopyComplete
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya Otomasyon Programı.exe
+C:\Users\mst12\source\repos\Vardiya Otomasyon Programı - Kopya\Vardiya Otomasyon Programı\obj\Debug\Vardiya Otomasyon Programı.pdb
